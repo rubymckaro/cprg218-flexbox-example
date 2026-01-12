@@ -1,0 +1,8 @@
+*{
+	box-sizing:border-box;
+}
+
+body {
+    background-color: rgb(188, 255, 170);
+    color:rgb(230, 41, 244);
+}
